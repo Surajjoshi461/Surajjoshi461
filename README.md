@@ -23,7 +23,7 @@
 ### 🛠 Tech Stack
 - **Languages**: JavaScript, Node.js, TypeScript, C, C++
 - **Frameworks**: Express.js
-- **Databases**: MongoDB, PostgreSQL
+- **Databases**: MongoDB
 - **Cloud**: Azure
 - **Tools**: Git, RESTful API development, Microsoft Visual Studio, Dev-C++, Android Studio, Figma
 - **Other Skills**: Role-Based Access Control (RBAC), WebSockets, OpenAI APIs, System Architecture Design
@@ -35,7 +35,7 @@
 - Developed & optimized **eBotify, aiBotify CRM** for business automation.
 - Built **WhatsApp campaigns, live chat (WebSockets), appointment scheduling**, and real-time dashboards.
 - Implemented **RBAC, ChatGPT/OpenAI APIs** for better automation.
-- Designed & integrated **MongoDB/PostgreSQL APIs** for scalable storage.
+- Designed & integrated **MongoDB APIs** for scalable storage.
 - Worked closely with clients for **requirements, troubleshooting & deployments**.
 
 ---
