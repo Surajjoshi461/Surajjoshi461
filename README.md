@@ -10,7 +10,7 @@
 </a>
 
 ### 🚀 About Me
-- 💻 **Software Backend Developer** at **Mindpath Tech Pvt. Ltd.** (Dec 2022 – Feb 2025)
+- 💻 **Software Backend Developer**
 - 🌱 Currently working on **Web Applications (Node.js - TypeScript)**
 - 📚 Learning **NestJS & eJS**
 - 🔍 Looking for **new job opportunities**
